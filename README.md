@@ -1,4 +1,5 @@
-![baner](https://github.com/elGonzoSnow/Algoritmo-de-costos-modulo1/assets/122803276/8a8b14e7-1905-4a7a-87cf-966936062b72)
+![baner](https://github.com/elGonzoSnow/Algoritmo-de-costos-MOD1/assets/122803276/64241f91-f1ff-430c-ba66-cdf874a56a8c)
+
 
 ## Algoritmo de Costos corte-14
 
